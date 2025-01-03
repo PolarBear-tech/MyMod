@@ -1,0 +1,10 @@
+{
+  "item.mod.mod_item_1": "Mod Item 1",
+  "item.mod.mod_item_2": "Mod Item 2",
+  "item.mod.prospector": "Mod Item 3",
+  "itemGroup.mod_group": "Mod",
+  "block.mod.mod_block_1": "Mod Block 1",
+  "block.mod.mod_block_2": "Mod Block 2",
+  "block.mod.mod_block_3": "Mod Block 3",
+  "block.mod.fire_item": "Fire Item"
+}

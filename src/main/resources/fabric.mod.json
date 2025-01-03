@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "mod",
+	"version": "${version}",
+	"name": "Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"PolarBear"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"cn.polarbear.mod.Mod"
+		],
+		"client": [
+			"cn.polarbear.mod.ModClient"
+		],
+		"fabric-datagen": [
+			"cn.polarbear.mod.ModDataGenerator"
+		]
+	},
+	"mixins": [
+		"mod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

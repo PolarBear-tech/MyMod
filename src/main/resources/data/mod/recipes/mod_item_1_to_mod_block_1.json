@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mod:mod_item_1"
+    }
+  },
+  "result": {
+    "item": "mod:mod_block_1",
+    "count": 3
+  }
+}
