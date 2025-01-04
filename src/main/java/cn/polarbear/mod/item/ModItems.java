@@ -38,8 +38,6 @@ public class ModItems {
     public static final Item Mod_Food = registerItems("mod_food",
             new Item(new FabricItemSettings().food(ModFoodComponents.ModFood)));
 
-
-
-
-
+    public static final Item FUEL = registerItems("fuel",
+            new Item(new FabricItemSettings()));
 }

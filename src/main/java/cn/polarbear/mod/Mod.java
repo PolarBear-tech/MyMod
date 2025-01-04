@@ -5,6 +5,7 @@ import cn.polarbear.mod.item.ModItemGroup;
 import cn.polarbear.mod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -26,5 +27,6 @@ public class Mod implements ModInitializer {
 		ModItems.registerModItems();
 		ModItemGroup.registerModItemGroup();
 		ModBlocks.registerModBlocks();
+		FuelRegistry.INSTANCE.add(ModItems.FUEL,2000);
 	}
 }
