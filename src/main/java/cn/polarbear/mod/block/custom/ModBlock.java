@@ -13,6 +13,9 @@ public class ModBlock extends Block {
     @Override
     public void onEntityLand(BlockView world, Entity entity) {
         entity.setFireTicks(200);
+
+
         super.onEntityLand(world, entity);
+
     }
 }

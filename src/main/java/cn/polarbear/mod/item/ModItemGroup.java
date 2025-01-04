@@ -28,6 +28,7 @@ public class ModItemGroup {
                                 entries.add(ModItems.MOD_ITEM_2);
                                 entries.add(ModItems.PROSPECTOR);
                                 entries.add(ModItems.FIRE_ITEM);
+                                entries.add(ModItems.Mod_Food);
                                 entries.add(ModBlocks.MOD_BLOCK_1);
                                 entries.add(ModBlocks.MOD_BLOCK_2);
                                 entries.add(ModBlocks.MOD_BLOCK_3);
