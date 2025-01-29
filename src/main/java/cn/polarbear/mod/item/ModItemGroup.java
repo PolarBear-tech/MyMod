@@ -10,10 +10,6 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 
-/**
- * @author PolarBear
- * @date 24.12.27
- */
 public class ModItemGroup {
     public static void registerModItemGroup() {
     }

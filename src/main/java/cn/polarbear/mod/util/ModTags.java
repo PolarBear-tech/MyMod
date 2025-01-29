@@ -6,10 +6,6 @@ import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.tag.TagKey;
 import net.minecraft.util.Identifier;
 
-/**
- * @author PolarBear
- * @date 25.1.5
- */
 public class ModTags {
     public static final class Blocks {
         private static TagKey<Block> createTag(String name){
