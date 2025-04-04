@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "mod_item_2",
+  "ingredient": {
+    "item": "mod:mod_item_1"
+  },
+  "result": "mod:mod_item_2"
+}

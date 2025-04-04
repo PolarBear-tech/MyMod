@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mod:mod_block_1"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "mod:mod_item_1"
+  }
+}

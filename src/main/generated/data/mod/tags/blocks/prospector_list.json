@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "mod:mod_block_1",
+    "#minecraft:copper_ores",
+    "#minecraft:iron_ores",
+    "#minecraft:gold_ores",
+    "#minecraft:lapis_ores",
+    "#minecraft:diamond_ores",
+    "#minecraft:redstone_ores",
+    "#minecraft:emerald_ores",
+    "#minecraft:copper_ores"
+  ]
+}

@@ -1,0 +1,11 @@
+// 1.20	2025-04-04T20:07:24.0933498	Mod/Recipes
+2b920ff20887ef538bc1007398b4c7931d411055 data\mod\advancements\recipes\misc\mod_item_2_from_smelting_mod_item_1.json
+319aaa68931536fb22fad0bd507a9fb38421c216 data\mod\advancements\recipes\misc\mod_item_1.json
+313f51c17cdba37fda2fe3b317fd839f07d7433a data\mod\advancements\recipes\misc\sugar_from_beetroot.json
+330570e3f2531a33b62c9ea1dc67203b825c2296 data\mod\advancements\recipes\misc\mod_item_2_from_blasting_mod_item_1.json
+35ff21e96fd84f2c74ddd222c4d92bfc62afd07c data\mod\recipes\mod_item_2_from_smelting_mod_item_1.json
+92b08fa89c62604fa2432912ceae8eb37e6320d8 data\mod\recipes\mod_item_1.json
+92614c37134874edea907382759ba9df20ad1b9c data\mod\advancements\recipes\building_blocks\mod_block_1.json
+2d96fd38b24afa9ca7ca216e492879eaf75da79b data\mod\recipes\mod_block_1.json
+41d0419c08eb1fce0379436f531fa88e61b9a5ac data\mod\recipes\sugar_from_beetroot.json
+e1eaec74606534e94e8f21804f3dbedb610aee48 data\mod\recipes\mod_item_2_from_blasting_mod_item_1.json

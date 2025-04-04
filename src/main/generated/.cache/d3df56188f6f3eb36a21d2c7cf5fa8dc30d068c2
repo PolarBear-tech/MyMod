@@ -1,0 +1,4 @@
+// 1.20	2025-04-04T20:07:24.0903578	Mod/Tags for minecraft:block
+370c0c2aaa22c9fdbc22069f6d73b54de6bd146f data\minecraft\tags\blocks\needs_iron_tool.json
+a987dede06d8d0e8ec955d0c8061a6ea5d3026a3 data\minecraft\tags\blocks\mineable\pickaxe.json
+ae6dad723be5af323a7cd8c112e7abdc7c209c00 data\mod\tags\blocks\prospector_list.json
