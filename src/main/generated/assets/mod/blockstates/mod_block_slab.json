@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mod:block/mod_block_slab"
+    },
+    "type=double": {
+      "model": "mod:block/mod_block_1"
+    },
+    "type=top": {
+      "model": "mod:block/mod_block_slab_top"
+    }
+  }
+}

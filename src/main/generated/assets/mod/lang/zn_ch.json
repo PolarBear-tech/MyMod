@@ -1,0 +1,23 @@
+{
+  "item.mod.mod_item_1": "Mod Item 1",
+  "item.mod.mod_item_2": "Mod Item 2",
+  "item.mod.prospector": "Mod Item 3",
+  "item.mod.mod_food": "Mod Food",
+  "item.mod.fire_item": "Fire Item",
+  "item.mod.fuel": "Fuel",
+  "item.mod.fire_item.tooltip": "This item is a fire source.",
+  "itemGroup.mod_group": "Mod",
+  "block.mod.mod_block_1": "Mod Block 1",
+  "block.mod.mod_block_2": "Mod Block 2",
+  "block.mod.mod_block_3": "Mod Block 3",
+  "block.mod.fire_item": "Fire Item",
+  "block.mod.mod_block_stair": "Mod Block Stair",
+  "block.mod.mod_block_button": "Mod Block Button",
+  "block.mod.mod_block_slab": "Mod Block Slab",
+  "block.mod.mod_block_pressure_plate": "Mod Block Pressure Plate",
+  "block.mod.mod_block_fence": "Mod Block Fence",
+  "block.mod.mod_block_fence_gate": "Mod Block Fence Gate",
+  "block.mod.mod_block_wall": "Mod Block Wall",
+  "block.mod.mod_block_door": "Mod Block Door",
+  "block.mod.mod_block_trapdoor": "Mod Block Trapdoor"
+}

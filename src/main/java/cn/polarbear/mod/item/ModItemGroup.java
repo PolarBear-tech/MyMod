@@ -29,6 +29,15 @@ public class ModItemGroup {
                                 entries.add(ModBlocks.MOD_BLOCK_1);
                                 entries.add(ModBlocks.MOD_BLOCK_2);
                                 entries.add(ModBlocks.MOD_BLOCK_3);
+                                entries.add(ModBlocks.MOD_BLOCK_STAIR);
+                                entries.add(ModBlocks.MOD_BLOCK_SLAB);
+                                entries.add(ModBlocks.MOD_BLOCK_BUTTON);
+                                entries.add(ModBlocks.MOD_BLOCK_PRESSURE_PLATE);
+                                entries.add(ModBlocks.MOD_BLOCK_FENCE);
+                                entries.add(ModBlocks.MOD_BLOCK_FENCE_GATE);
+                                entries.add(ModBlocks.MOD_BLOCK_DOOR);
+                                entries.add(ModBlocks.MOD_BLOCK_TRAPDOOR);
+                                entries.add(ModBlocks.MOD_BLOCK_WALL);
                             }
                     ).build()
     );

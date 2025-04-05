@@ -33,5 +33,13 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.MOD_BLOCK_2);
         this.getOrCreateTagBuilder(BlockTags.NEEDS_IRON_TOOL)
                 .add(ModBlocks.MOD_BLOCK_1);
+        this.getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.MOD_BLOCK_FENCE);
+        this.getOrCreateTagBuilder(BlockTags.FENCE_GATES)
+                .add(ModBlocks.MOD_BLOCK_FENCE_GATE);
+        this.getOrCreateTagBuilder(BlockTags.WALLS)
+                .add(ModBlocks.MOD_BLOCK_WALL);
+
+
     }
 }

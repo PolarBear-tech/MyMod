@@ -1,3 +1,12 @@
-// 1.20	2025-04-04T20:07:24.0913549	Mod/Block Loot Tables
+// 1.20	2025-04-05T10:10:22.2747688	Mod/Block Loot Tables
+250705846d1ef47fb32e7e58e9c6592d1f28daca data\mod\loot_tables\blocks\mod_block_fence_gate.json
 bcecb286d2c73074885452bd6689d5b5c82c9855 data\mod\loot_tables\blocks\mod_block_1.json
+792a5c3fe08f7e32603f5f5b2bcc9d8d2e09a5d4 data\mod\loot_tables\blocks\mod_block_trap_door.json
+f8a78755766cdf53c4dafc6f84e3085b96f3fc1f data\mod\loot_tables\blocks\mod_block_fence.json
+fd80a3ae9182e5a7f5a40ccfc38353011b907c9b data\mod\loot_tables\blocks\mod_block_slab.json
 486addeab808af6535ac5ae751aad5cf1630672d data\mod\loot_tables\blocks\mod_block_2.json
+0268b128a28ef624fba94c7184c76ba69f0d8646 data\mod\loot_tables\blocks\mod_block_door.json
+4bb29103f6082053f8504819e8c74ad27099090f data\mod\loot_tables\blocks\mod_block_button.json
+cd305f4efeaea6e92d73b76f62d7e7a7d93ee8a7 data\mod\loot_tables\blocks\mod_block_pressure_plate.json
+e1eb184375dc4550753acd33b0c083f7aa35e199 data\mod\loot_tables\blocks\mod_block_stair.json
+1981cd61b4e1525672d166490cbcf83e498d6d65 data\mod\loot_tables\blocks\mod_block_wall.json
