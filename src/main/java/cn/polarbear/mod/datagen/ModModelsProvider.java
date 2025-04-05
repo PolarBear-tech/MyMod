@@ -38,8 +38,13 @@ public class ModModelsProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.MOD_ITEM_2, Models.GENERATED);
         itemModelGenerator.register(ModItems.FIRE_ITEM, Models.GENERATED);
         itemModelGenerator.register(ModItems.PROSPECTOR, Models.GENERATED);
-        itemModelGenerator.register(ModItems.Mod_Food, Models.GENERATED);
+        itemModelGenerator.register(ModItems.MOD_FOOD, Models.GENERATED);
         itemModelGenerator.register(ModItems.FUEL, Models.GENERATED);
 
+        itemModelGenerator.register(ModItems.MOD_ITEM_1_AXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MOD_ITEM_1_PICKAXE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MOD_ITEM_1_HOE, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MOD_ITEM_1_SHOVEL, Models.HANDHELD);
+        itemModelGenerator.register(ModItems.MOD_ITEM_1_SWORD, Models.HANDHELD);
     }
 }

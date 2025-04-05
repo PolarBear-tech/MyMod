@@ -17,6 +17,11 @@
   "item.mod.fuel": "Fuel",
   "item.mod.mod_food": "Mod Food",
   "item.mod.mod_item_1": "Mod Item 1",
+  "item.mod.mod_item_1_axe": "Mod Block 1 Axe",
+  "item.mod.mod_item_1_hoe": "Mod Block 1 hoe",
+  "item.mod.mod_item_1_pickaxe": "Mod Block 1 Pickaxe",
+  "item.mod.mod_item_1_shovel": "Mod Block 1 Shovel",
+  "item.mod.mod_item_1_sword": "Mod Block 1 Sword",
   "item.mod.mod_item_2": "Mod Item 2",
   "item.mod.prospector": "Prospector",
   "itemGroup.mod_group": "Mod"

@@ -24,7 +24,7 @@ public class ModItemGroup {
                                 entries.add(ModItems.MOD_ITEM_2);
                                 entries.add(ModItems.PROSPECTOR);
                                 entries.add(ModItems.FIRE_ITEM);
-                                entries.add(ModItems.Mod_Food);
+                                entries.add(ModItems.MOD_FOOD);
                                 entries.add(ModItems.FUEL);
                                 entries.add(ModBlocks.MOD_BLOCK_1);
                                 entries.add(ModBlocks.MOD_BLOCK_2);
@@ -38,6 +38,11 @@ public class ModItemGroup {
                                 entries.add(ModBlocks.MOD_BLOCK_DOOR);
                                 entries.add(ModBlocks.MOD_BLOCK_TRAPDOOR);
                                 entries.add(ModBlocks.MOD_BLOCK_WALL);
+                                entries.add(ModItems.MOD_ITEM_1_AXE);
+                                entries.add(ModItems.MOD_ITEM_1_PICKAXE);
+                                entries.add(ModItems.MOD_ITEM_1_HOE);
+                                entries.add(ModItems.MOD_ITEM_1_SWORD);
+                                entries.add(ModItems.MOD_ITEM_1_SHOVEL);
                             }
                     ).build()
     );

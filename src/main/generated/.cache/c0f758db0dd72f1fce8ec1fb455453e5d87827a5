@@ -1,4 +1,4 @@
-// 1.20	2025-04-05T10:10:22.2777625	Mod/Model Definitions
+// 1.20	2025-04-05T20:38:00.8095969	Mod/Model Definitions
 96b4c565aebefd3fed605a02c23ce71dadbdf1d9 assets\mod\models\block\mod_block_button_pressed.json
 b09f8615cca96befd09a51a5e0d9131989a36763 assets\mod\models\item\mod_block_3.json
 e8e7aae8e1c432ee9f0082ca5f7ffbd524ddbaa5 assets\mod\models\block\mod_block_trap_door_bottom.json
@@ -7,6 +7,7 @@ ef1776c244cfd26885ec73a31a2cc6e20d561e37 assets\mod\models\block\mod_block_1.jso
 961ee3060fedfd28db718227b190c2ce1b253dd8 assets\mod\models\block\mod_block_door_top_right_open.json
 b92b527d0d57f464a1c2c4dd8dba00b0a4b7efae assets\mod\models\block\mod_block_wall_side_tall.json
 8008da7d0bef6cdf40bb7ede5138fbc1820d5b85 assets\mod\models\block\mod_block_trap_door_open.json
+d4278edd0381f07fc93ff566e6aab8be3b96e02d assets\mod\models\item\mod_item_1_pickaxe.json
 6b4d0023298b5bc40d86006f4bc396b848e60210 assets\mod\models\item\prospector.json
 31e2c1126bfcd28e0e8d8c1cd62697cf858a3611 assets\mod\models\item\mod_block_pressure_plate.json
 f27780fbdf3ee42eea892439ad20e6b8f02752d7 assets\mod\models\item\mod_block_2.json
@@ -27,6 +28,7 @@ f96be4f6155c6998dadcfa14ac6f40023d15e049 assets\mod\models\block\mod_block_press
 e4499656abc55fc73a08ef55cd022208a6184bdb assets\mod\blockstates\mod_block_pressure_plate.json
 dd167f8c975526e67315b98a5710efe063c1e49d assets\mod\models\item\mod_block_slab.json
 12331de99ae6063451313d3b198477bcbeefec0c assets\mod\models\block\mod_block_fence_gate.json
+2a9836e4443ed4a1e9210a5ba990e390eb640908 assets\mod\models\item\mod_item_1_sword.json
 c1301f55b7bf1a95a086ff72c6b0db5bf88555de assets\mod\blockstates\mod_block_slab.json
 7e28fcdcd8fb4cce3ee87d4d3594b9bd8b04755d assets\mod\blockstates\mod_block_door.json
 c2b6a20f3a9772828f5cfd85cd2a3652bc202e55 assets\mod\models\item\mod_block_trap_door.json
@@ -48,6 +50,8 @@ fe05e2753940e18422059b0fb6680ea9ea78e0e0 assets\mod\models\block\mod_block_fence
 2bd09fbde2ee0de74508941121f4d7701d3e4b32 assets\mod\models\block\mod_block_wall_side.json
 72feee6c6be45a5aac950a5302cdc628a2bdb3d0 assets\mod\models\block\mod_block_wall_inventory.json
 538ca82d65a434a04108f021b70d2822640cf717 assets\mod\models\item\mod_block_wall.json
+4d0b7e731f20796226a23802a36e774018d3abf7 assets\mod\models\item\mod_item_1_hoe.json
+9b12038fd67be433a748c6a67acc5b3ca3441c8f assets\mod\models\item\mod_item_1_axe.json
 f8447a4a62faed05fa7e6ab48fe57c1df4ec46eb assets\mod\models\block\mod_block_2.json
 bf3940600f764e5265e0a5ae433b892dd9c3184b assets\mod\models\block\mod_block_fence_side.json
 079ad5fdb174417fcec555796f6b2c9cd0488c0e assets\mod\models\block\mod_block_stair_outer.json
@@ -62,5 +66,6 @@ c876643dfd04ac0f49ff311357d67f0b7518d282 assets\mod\blockstates\mod_block_stair.
 ec1ce902fc55db6b48c0e2426befb97d4ff6162e assets\mod\models\block\mod_block_door_bottom_right_open.json
 fa713224bba1a885e2345580a80af95473a80620 assets\mod\blockstates\mod_block_3.json
 1b1c2bc9f6afae43e09250c219e1afe11c2f16d5 assets\mod\models\block\mod_block_door_top_left.json
+cd20a37c7d6423a2a0722a658e7fd651606b5e87 assets\mod\models\item\mod_item_1_shovel.json
 16ef03949acb14b2e446900d7a339edd887925d7 assets\mod\models\block\mod_block_door_top_left_open.json
 da9b28c63bc9a70d8955a470baa0c7733fd89902 assets\mod\models\block\mod_block_stair.json

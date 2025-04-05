@@ -31,5 +31,10 @@ public class ModLangProviderWithEN_US extends FabricLanguageProvider {
         translationBuilder.add("block.mod.mod_block_wall","Mod Block Wall");
         translationBuilder.add("block.mod.mod_block_door","Mod Block Door");
         translationBuilder.add("block.mod.mod_block_trapdoor","Mod Block Trapdoor");
+        translationBuilder.add("item.mod.mod_item_1_axe","Mod Block 1 Axe");
+        translationBuilder.add("item.mod.mod_item_1_pickaxe","Mod Block 1 Pickaxe");
+        translationBuilder.add("item.mod.mod_item_1_sword","Mod Block 1 Sword");
+        translationBuilder.add("item.mod.mod_item_1_hoe","Mod Block 1 hoe");
+        translationBuilder.add("item.mod.mod_item_1_shovel","Mod Block 1 Shovel");
     }
 }
