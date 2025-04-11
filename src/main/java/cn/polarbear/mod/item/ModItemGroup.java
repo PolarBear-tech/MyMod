@@ -14,6 +14,7 @@ public class ModItemGroup {
     public static void registerModItemGroup() {
     }
 
+    @SuppressWarnings("unused")
     public static final ItemGroup MOD_GROUP = Registry.register(Registries.ITEM_GROUP,
             new Identifier(Mod.MOD_ID, "mod_group"),
             FabricItemGroup.builder()
@@ -43,6 +44,10 @@ public class ModItemGroup {
                                 entries.add(ModItems.MOD_ITEM_1_HOE);
                                 entries.add(ModItems.MOD_ITEM_1_SWORD);
                                 entries.add(ModItems.MOD_ITEM_1_SHOVEL);
+                                entries.add(ModItems.MOD_ITEM_1_HELMET);
+                                entries.add(ModItems.MOD_ITEM_1_CHESTPLATE);
+                                entries.add(ModItems.MOD_ITEM_1_LEGGINGS);
+                                entries.add(ModItems.MOD_ITEM_1_BOOTS);
                             }
                     ).build()
     );

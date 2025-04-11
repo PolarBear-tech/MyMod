@@ -1,7 +1,7 @@
-// 1.20	2025-04-05T20:38:00.805609	Mod/Tags for minecraft:block
+// 1.20	2025-04-12T07:21:53.1461759	Mod/Tags for minecraft:block
 4d7bf3b5d24e24dc9f3288a495cf8fd5bf16bdd6 data\minecraft\tags\blocks\fences.json
 370c0c2aaa22c9fdbc22069f6d73b54de6bd146f data\minecraft\tags\blocks\needs_iron_tool.json
 c846296ac07e905adc21de702252b12f03fc94d3 data\minecraft\tags\blocks\fence_gates.json
-ae6dad723be5af323a7cd8c112e7abdc7c209c00 data\mod\tags\blocks\prospector_list.json
 a987dede06d8d0e8ec955d0c8061a6ea5d3026a3 data\minecraft\tags\blocks\mineable\pickaxe.json
+ae6dad723be5af323a7cd8c112e7abdc7c209c00 data\mod\tags\blocks\prospector_list.json
 f7422f4531136600b1561cd8b2096c29e385d074 data\minecraft\tags\blocks\walls.json

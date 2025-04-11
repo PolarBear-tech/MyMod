@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mod:mod_item_1_helmet",
+    "mod:mod_item_1_chestplate",
+    "mod:mod_item_1_leggings",
+    "mod:mod_item_1_boots"
+  ]
+}
