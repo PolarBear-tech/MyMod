@@ -14,7 +14,7 @@ import java.util.function.Supplier;
 
 public enum ModArmorMaterial implements ArmorMaterial {
     MOD_ITEM_1(
-            "mod_block_1",
+            "mod_item_1",
             25,
             Util.make(new EnumMap<>(ArmorItem.Type.class), map -> {
                 map.put(ArmorItem.Type.BOOTS, 3);

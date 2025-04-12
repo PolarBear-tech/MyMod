@@ -9,6 +9,7 @@ import net.minecraft.registry.tag.ItemTags;
 import java.util.concurrent.CompletableFuture;
 
 public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
+    @SuppressWarnings("unused")
     public ModItemTagProvider(FabricDataOutput output, CompletableFuture<RegistryWrapper.WrapperLookup> completableFuture, FabricTagProvider.BlockTagProvider blockTagProvider) {
         super(output, completableFuture, blockTagProvider);
     }
