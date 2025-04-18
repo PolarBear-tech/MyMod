@@ -37,26 +37,26 @@ public class ModItems {
             new Item(new FabricItemSettings()));
 
     public static final Item MOD_ITEM_1_PICKAXE = registerItems("mod_item_1_pickaxe",
-            new PickaxeItem(ModToolMaterial.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
+            new PickaxeItem(ModToolMaterials.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
 
     public static final Item MOD_ITEM_1_AXE = registerItems("mod_item_1_axe",
-            new AxeItem(ModToolMaterial.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
+            new AxeItem(ModToolMaterials.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
 
     public static final Item MOD_ITEM_1_SHOVEL = registerItems("mod_item_1_shovel",
-            new ShovelItem(ModToolMaterial.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
+            new ShovelItem(ModToolMaterials.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
 
     public static final Item MOD_ITEM_1_SWORD = registerItems("mod_item_1_sword",
-            new PickaxeItem(ModToolMaterial.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
+            new PickaxeItem(ModToolMaterials.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
 
     public static final Item MOD_ITEM_1_HOE = registerItems("mod_item_1_hoe",
-            new PickaxeItem(ModToolMaterial.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
+            new PickaxeItem(ModToolMaterials.MOD_ITEM_1, 2, 2f, new FabricItemSettings()));
 
     public static final Item MOD_ITEM_1_HELMET = registerItems("mod_item_1_helmet",
-            new ArmorItem(ModArmorMaterial.MOD_ITEM_1, ArmorItem.Type.HELMET, new FabricItemSettings()));
+            new ModArmorItem(ModArmorMaterials.MOD_ITEM_1, ArmorItem.Type.HELMET, new FabricItemSettings()));
     public static final Item MOD_ITEM_1_CHESTPLATE = registerItems("mod_item_1_chestplate",
-            new ArmorItem(ModArmorMaterial.MOD_ITEM_1, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
+            new ModArmorItem(ModArmorMaterials.MOD_ITEM_1, ArmorItem.Type.CHESTPLATE, new FabricItemSettings()));
     public static final Item MOD_ITEM_1_LEGGINGS = registerItems("mod_item_1_leggings",
-            new ArmorItem(ModArmorMaterial.MOD_ITEM_1, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
+            new ModArmorItem(ModArmorMaterials.MOD_ITEM_1, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));
     public static final Item MOD_ITEM_1_BOOTS = registerItems("mod_item_1_boots",
-            new ArmorItem(ModArmorMaterial.MOD_ITEM_1, ArmorItem.Type.BOOTS, new FabricItemSettings()));
+            new ModArmorItem(ModArmorMaterials.MOD_ITEM_1, ArmorItem.Type.BOOTS, new FabricItemSettings()));
 }
